@@ -1,0 +1,12 @@
+{
+  "name": "GrammyBot",
+  "version": "0.0.1",
+  "description": "A bot to automate report submitting, document generation, and harassing people who forgot to submit",
+  "main": "index.js",
+  "author": "Thomas Schollenberger",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/rtm-api": "^6.0.0",
+    "@slack/web-api": "^6.7.1"
+  }
+}
